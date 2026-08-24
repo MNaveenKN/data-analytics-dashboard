@@ -1,0 +1,44 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount_pct,cost_per_unit,customer_rating
+ORD-1001,2025-01-03,North,Electronics,Wireless Mouse,2,28.00,0,15.00,4.5
+ORD-1002,2025-01-06,South,Office,Notebook Set,4,12.50,5,6.00,4.2
+ORD-1003,2025-01-10,East,Home,Desk Lamp,1,45.00,10,25.00,4.8
+ORD-1004,2025-01-14,West,Fitness,Yoga Mat,2,32.00,0,18.00,4.4
+ORD-1005,2025-01-19,North,Office,Ergonomic Chair,1,240.00,5,150.00,4.7
+ORD-1006,2025-01-24,South,Electronics,USB-C Hub,3,42.00,10,24.00,4.1
+ORD-1007,2025-02-02,East,Fitness,Resistance Bands,3,22.00,0,10.00,4.6
+ORD-1008,2025-02-05,West,Home,Coffee Maker,1,95.00,5,58.00,4.3
+ORD-1009,2025-02-09,North,Electronics,Mechanical Keyboard,1,89.00,0,52.00,4.9
+ORD-1010,2025-02-13,South,Office,Standing Desk,1,320.00,10,205.00,4.5
+ORD-1011,2025-02-18,East,Home,Storage Baskets,4,18.00,5,9.00,4.0
+ORD-1012,2025-02-23,West,Fitness,Dumbbell Set,2,75.00,0,48.00,4.7
+ORD-1013,2025-03-01,North,Home,Air Purifier,1,160.00,10,103.00,4.6
+ORD-1014,2025-03-04,South,Electronics,Webcam,2,64.00,5,38.00,4.4
+ORD-1015,2025-03-08,East,Office,Monitor Stand,3,36.00,0,19.00,4.3
+ORD-1016,2025-03-12,West,Fitness,Foam Roller,2,27.00,0,13.00,4.1
+ORD-1017,2025-03-17,North,Electronics,Noise Cancelling Headphones,1,180.00,15,112.00,4.8
+ORD-1018,2025-03-21,South,Home,Electric Kettle,2,38.00,5,21.00,4.5
+ORD-1019,2025-03-26,East,Fitness,Fitness Tracker,1,110.00,10,68.00,4.2
+ORD-1020,2025-03-29,West,Office,Desk Organizer,5,16.00,0,7.00,4.0
+ORD-1021,2025-04-03,North,Office,Notebook Set,6,12.50,5,6.00,4.4
+ORD-1022,2025-04-07,South,Fitness,Yoga Mat,3,32.00,10,18.00,4.7
+ORD-1023,2025-04-11,East,Electronics,Wireless Mouse,4,28.00,0,15.00,4.6
+ORD-1024,2025-04-15,West,Home,Desk Lamp,2,45.00,5,25.00,4.3
+ORD-1025,2025-04-20,North,Fitness,Dumbbell Set,1,75.00,0,48.00,4.5
+ORD-1026,2025-04-24,South,Electronics,Mechanical Keyboard,2,89.00,10,52.00,4.8
+ORD-1027,2025-04-28,East,Office,Ergonomic Chair,1,240.00,5,150.00,4.6
+ORD-1028,2025-05-02,West,Electronics,USB-C Hub,3,42.00,0,24.00,4.2
+ORD-1029,2025-05-06,North,Home,Coffee Maker,2,95.00,10,58.00,4.4
+ORD-1030,2025-05-10,South,Office,Standing Desk,1,320.00,5,205.00,4.7
+ORD-1031,2025-05-14,East,Fitness,Resistance Bands,5,22.00,0,10.00,4.5
+ORD-1032,2025-05-19,West,Electronics,Webcam,2,64.00,5,38.00,4.1
+ORD-1033,2025-05-23,North,Home,Storage Baskets,3,18.00,0,9.00,4.0
+ORD-1034,2025-05-27,South,Fitness,Fitness Tracker,2,110.00,10,68.00,4.6
+ORD-1035,2025-06-01,East,Office,Monitor Stand,2,36.00,5,19.00,4.3
+ORD-1036,2025-06-04,West,Home,Air Purifier,1,160.00,0,103.00,4.5
+ORD-1037,2025-06-08,North,Electronics,Noise Cancelling Headphones,2,180.00,10,112.00,4.9
+ORD-1038,2025-06-12,South,Home,Electric Kettle,3,38.00,5,21.00,4.4
+ORD-1039,2025-06-17,East,Fitness,Foam Roller,4,27.00,0,13.00,4.2
+ORD-1040,2025-06-22,West,Office,Desk Organizer,6,16.00,5,7.00,4.1
+ORD-1041,2025-06-26,North,Electronics,USB-C Hub,2,42.00,,24.00,
+ORD-1042,2025-06-28,South,Home,Desk Lamp,2,45.00,10,25.00,4.6
+

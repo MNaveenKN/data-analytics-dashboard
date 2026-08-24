@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+data/*.db
+data/*.sqlite3
+.streamlit/secrets.toml
+.idea/
+.vscode/
+.DS_Store
+
